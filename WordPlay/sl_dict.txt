@@ -1,0 +1,17 @@
+coffee
+room
+table
+person
+walk
+view
+newspaper
+armchair
+computer
+afternoon
+answer
+speach
+guard
+fight
+shadow
+force
+silence
